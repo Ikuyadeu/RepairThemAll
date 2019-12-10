@@ -1,0 +1,6 @@
+{
+	"name": "DevReplay",
+	"version": "0.0.1",
+	"jar": "devreplay",
+	"main": "us.msu.cse.repair.Main"
+}

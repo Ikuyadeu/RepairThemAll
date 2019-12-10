@@ -48,3 +48,4 @@ import core.repair_tools.Arja
 import core.repair_tools.Astor
 import core.repair_tools.Nopol
 import core.repair_tools.NPEFix
+import core.repair_tools.DevReplay
